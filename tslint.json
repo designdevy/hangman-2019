@@ -13,6 +13,7 @@
     "no-submodule-imports": false,
     "object-literal-sort-keys": false,
     "no-implicit-dependencies": false,
+    "interface-name": false,
     "prettier": [
       true,
       ".prettierrc"

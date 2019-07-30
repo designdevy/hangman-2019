@@ -1,8 +1,8 @@
 import CssBaseline from '@material-ui/core/CssBaseline'
 import { ThemeProvider } from '@material-ui/styles'
+import App from 'App'
 import React from 'react'
 import ReactDOM from 'react-dom'
-import App from './components/App/App'
 import * as serviceWorker from './serviceWorker'
 import theme from './theme'
 
